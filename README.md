@@ -1,4 +1,14 @@
-## Hi there 👋
+hiii!! :D this is a place for stuff im actually proud of! su1catdev, my other acc, became kinda full of toy projects and homeworkz that i have to keep public for my school, soo now weve this!! might migrate there once i graduate if im allowed to private those. 
+
+im currently working on Margins - a pdf annotation tool by students, for students. inspired by my highly unstructured learning style and confusing parts of the textbooks im following. more later cuz "working on" is a very loose term here despite being required to submit it before march 2025 :D
+
+you can reach me on discord or instagram, my username's schrodinger1cat on both platforms.
+
+physics, philosophy, and herpetology nerd. especially lizards and frogs. will gladly explain everything i know if anybody has like,,, 19 hours to spare in this day and age.
+
+responsible ai advocate (colloquialy "ai doomer".) basically all my projects have a big red NOTHING AI GENERATED stamp on them unless specified otherwise.
+
+pronouns: it/he/she
 
 <!--
 **su1cat/su1cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
